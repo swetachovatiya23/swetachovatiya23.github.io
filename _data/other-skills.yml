@@ -1,0 +1,39 @@
+- name: LLMs (RAG, Agents)
+  percentage: 85
+  color: primary
+
+- name: PyTorch / TensorFlow / Keras
+  percentage: 75
+  color: secondary
+
+- name: HuggingFace Transformers
+  percentage: 75
+  color: secondary
+
+- name: Spring Boot (REST APIs)
+  percentage: 80
+  color: primary
+
+- name: MongoDB / JPA
+  percentage: 75
+  color: info
+
+- name: AWS (EC2, S3, SageMaker)
+  percentage: 75
+  color: warning
+
+- name: Docker / Kubernetes
+  percentage: 75
+  color: warning
+
+- name: Kafka / SQL
+  percentage: 70
+  color: info
+
+- name: MLflow / Monitoring
+  percentage: 65
+  color: success
+
+- name: Git / CI / Scrum
+  percentage: 80
+  color: success

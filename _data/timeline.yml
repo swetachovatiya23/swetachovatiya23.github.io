@@ -1,0 +1,51 @@
+- title: "Generative AI (Full Stack) Engineer — [IAT Insurance Group](https://www.iatinsurancegroup.com/)"
+  from: May 2024
+  to: present
+  description: |
+    - Designed and deployed **production-grade LLM applications** (RAG + agents) for enterprise search, reasoning, and workflow automation.
+    - Improved answer quality and reduced hallucinations via **retrieval tuning** (chunking, hybrid search), **guardrails**, and **evaluation datasets**.
+    - Built scalable inference APIs and backend services using **Java 17**, **Spring Boot**, and **MongoDB/JPA**; deployed on **AWS** with **Docker** and **Kubernetes**.
+    - Operated production services with monitoring, logging, and performance profiling to improve reliability and latency.
+
+- title: "Full Stack / Applied ML Engineer (Contract) — [Bank of America](https://www.bankofamerica.com/)"
+  from: Sep 2022
+  to: Oct 2023
+  description: |
+    - Delivered **rule-based** and **feature-driven** decision workflows to support analytics and model-assisted decision-making.
+    - Built backend services and data pipelines using **Spring Boot**, **MongoDB**, and **REST APIs**.
+    - Implemented **Kafka** streaming to process real-time events for analytical and ML-adjacent use cases.
+    - Shipped end-to-end applications with **Angular** and **AWS**, focusing on scalability and operational reliability.
+
+- title: "Full Stack / Applied ML Engineer — [Dollar Tree Stores](https://www.dollartree.com/)"
+  from: Jun 2021
+  to: Aug 2023
+  description: |
+    - Developed UIs surfacing forecasting outputs, analytics insights, and **ML-based recommendation** signals for business users.
+    - Integrated prediction and scoring outputs into customer-facing applications with backend/data teams.
+    - Modernized legacy **AngularJS** applications to **Angular 11** to improve performance and maintainability.
+    - Enabled experimentation and data-informed UX improvements by making predictive signals usable in day-to-day workflows.
+
+- title: "UI / Web Developer (Risk & Analytics Systems) — [Cross River](https://www.crossriver.com/)"
+  from: Aug 2019
+  to: May 2021
+  description: |
+    - Built front-end applications consuming APIs used for risk analytics, trend analysis, and statistical modeling.
+    - Collaborated with backend teams supporting decision engines and classical ML models for fraud/risk use cases.
+    - Implemented UI-level **data validation** and transformation to improve data accuracy and reliability.
+    - Improved UX responsiveness through targeted performance optimizations while maintaining production systems.
+
+- title: Frontend Developer — Acute Informatics
+  from: Jun 2018
+  to: Jul 2019
+  description: |
+    - Developed **Angular** single-page applications for data visualization, reporting, and insight-driven dashboards.
+    - Integrated **REST APIs** delivering structured datasets for BI and exploratory analysis.
+    - Implemented modular UI patterns and state management to support scalable, data-centric applications.
+
+- title: "Bachelor of Engineering (BE) — [Gujarat Technological University](https://www.gtu.ac.in/)"
+  from: Sep 2014
+  to: May 2018
+  description: |
+    **Electrical, Electronics and Communications Engineering** (Ahmedabad, India)
+    
+    - Grade: **8.7 CGPA**

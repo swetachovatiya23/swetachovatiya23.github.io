@@ -1,0 +1,23 @@
+- name: Python
+  percentage: 85
+  color: primary
+
+- name: Java (17)
+  percentage: 85
+  color: primary
+
+- name: JavaScript/TypeScript
+  percentage: 80
+  color: primary
+
+- name: C++
+  percentage: 70
+  color: secondary
+
+- name: C#
+  percentage: 70
+  color: secondary
+
+- name: MATLAB
+  percentage: 60
+  color: info

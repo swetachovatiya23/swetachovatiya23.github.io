@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname "${BASH_SOURCE[0]}")/.."
+
+# Load environment variables from .env for local development.
+# .env is intentionally gitignored. Keep it on your machine only.
+if [[ -f .env ]]; then
+  set -a
+  # shellcheck disable=SC1091
+  source .env
+  set +a
+fi
+
+# GitHub metadata accepts either JEKYLL_GITHUB_TOKEN or GITHUB_TOKEN.
+if [[ -n "${JEKYLL_GITHUB_TOKEN:-}" && -z "${GITHUB_TOKEN:-}" ]]; then
+  export GITHUB_TOKEN="$JEKYLL_GITHUB_TOKEN"
+fi
+
+bundle exec jekyll serve
